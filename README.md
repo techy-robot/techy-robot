@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-I am absolutely a nerd who loves talking about my passion. I look like a normal human being, until I finally start talking and it all comes pouring out. I hope to turn my many ideas into real physical works of magic.
-
-I am interested in Mechanical and Electrical engineering, and hope to earn a degree in Mechatronics or Robotics.
+I am an all around Mechanical, Electrical, and Computer engineer hoping to turn my many ideas into physical works of magic. I am seeking a degree in Mechanical or Robotics at the Colorado School of Mines.
 
 - 🔭 I’m currently working on Meteoroid
